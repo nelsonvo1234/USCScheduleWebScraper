@@ -1,0 +1,5 @@
+RequestsClassScraper.ipynb
+SeleniumClassScraper.ipynb
+*.csv
+*.txt
+.vscode
