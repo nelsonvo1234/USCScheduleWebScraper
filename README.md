@@ -27,7 +27,7 @@ If git is not installed, the latest version can be installed [here](https://git-
 First, clone the repo
 
 ```bash
-git clone git@github.com:nelsonvo1234/USCScheduleWebScraper.git
+git clone git@github.com:<user_id>/USCScheduleWebScraper.git
 ```
 
 Then, cd into the directory
